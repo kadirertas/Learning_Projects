@@ -11,7 +11,13 @@ namespace GenerictsIntro
         static void Main(string[] args)
         {
            
+            MyList<string> myList= new MyList<string>();
 
+
+            myList.Add("ahmet");
+            Console.WriteLine(myList.Length);
+            myList.Add("mehmet");
+            Console.WriteLine(myList.Length);
             
 
         }
