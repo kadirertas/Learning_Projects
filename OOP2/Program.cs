@@ -34,7 +34,8 @@ namespace OOP2
 
             Musteri Musteri3= new TuzelMusteri();
             Musteri Musteri4= new GercekMusteri();
-            //Satır 35-36 da görüldüğü gibi  ata class kendisi miras alan classın referans no sunu tutabilir
+            /*Satır 35-36 da görüldüğü gibi  ata class kendisi miras alan classın referans no sunu tutabilir
+             Buna Poliformizm yani çok biçimlilik denir */
         }
     }
 }
